@@ -25,5 +25,11 @@
     "S5b_ssr_guard": 17,
     "S5c_ai_render": 18,
     "S6_cta": 8
+  },
+  "proofread": true,
+  "proofread_entries": 233,
+  "proofread_files": {
+    "srt": "ep02-video-render-proofread.srt",
+    "vtt": "ep02-video-render-proofread.vtt"
   }
 }
